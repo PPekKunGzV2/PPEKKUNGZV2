@@ -1,11 +1,11 @@
 
-![Profile views counter](https://komarev.com/ghpvc/?username=exgun03&style=flat-square&color=00E8FF)
+![Profile views counter](https://komarev.com/ghpvc/?username=pppekkungz&style=flat-square&color=00E8FF)
 
-<img alt="blog" src="https://cdn.discordapp.com/attachments/783407809068400751/854236416887881768/55b16f0088f363255d4a23bf8f72a7cd.gif"/>
+<img alt="blog" src="https://media.discordapp.net/attachments/783407809068400751/854236962193539092/2021-03-26_02.25.30.png"/>
 
-# EXGUN
+# PPEKKUNGZ
 
-![EXGUN github stats](https://github-readme-stats.vercel.app/api?username=ppekkungz&show_icons=true&theme=dracula)
+![PPEKKUNGZ github stats](https://github-readme-stats.vercel.app/api?username=ppekkungz&show_icons=true&theme=dracula)
 ### My skills include
 
 <p align="center">
