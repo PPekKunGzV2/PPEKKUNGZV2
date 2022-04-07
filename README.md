@@ -1,7 +1,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=pppekkungz&style=flat-square&color=00E8FF)
 
-<img alt="blog" src="https://lolis.love/pqi6y.png"/>
+<img alt="blog" src="https://i.imgur.com/HqG8Q7f.gif"/>
 
 # PPEKKUNGZ
 
