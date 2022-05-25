@@ -1,7 +1,8 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=pppekkungz&style=flat-square&color=00E8FF)
 
-<img alt="blog" src="https://i.imgur.com/HqG8Q7f.gif"/>
+### FSC SMP SEASON 2 Info
+<script src="https://gist.github.com/PPekKunGz/7f509c0e22fc78a677658d868dc32c95.js"></script>
 
 # 💨 PPEKKUNGZ CHANNEL 💚
 
