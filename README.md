@@ -4,6 +4,7 @@
 <div align="center">
 	<p align="center">FRIENDSCRAFT SMP SEASON 2 - BY PPEKKUNGZ</p>
 [INFO SERVER](https://gist.github.com/PPekKunGz/7f509c0e22fc78a677658d868dc32c95)
+	
 </div>
 
 <div align="center">
