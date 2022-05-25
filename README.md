@@ -4,6 +4,10 @@
 ### FSC SMP SEASON 2 Info
 [INFO SERVER](https://gist.github.com/PPekKunGz/7f509c0e22fc78a677658d868dc32c95.js)
 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 # 💨 PPEKKUNGZ CHANNEL 💚
 
 ![PPEKKUNGZ github stats](https://github-readme-stats.vercel.app/api?username=ppekkungz&show_icons=true&theme=dracula)
