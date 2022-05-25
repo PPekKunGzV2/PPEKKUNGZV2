@@ -2,7 +2,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=pppekkungz&style=flat-square&color=00E8FF)
 
 <div align="center">
-<p style="font-weight:bold;">FRIENDSCRAFT SMP SEASON 2 - BY PPEKKUNGZ
+	<p style="font-weight:bold;">FRIENDSCRAFT SMP SEASON 2 - BY PPEKKUNGZ</p>
 [FRIENDSCRAFT SMP - INFO SERVER](https://gist.github.com/PPekKunGz/7f509c0e22fc78a677658d868dc32c95.js)
 </div>
 
