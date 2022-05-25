@@ -1,8 +1,10 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=pppekkungz&style=flat-square&color=00E8FF)
 
+<div align="center">
 ### FSC SMP SEASON 2 Info
-[INFO SERVER](https://gist.github.com/PPekKunGz/7f509c0e22fc78a677658d868dc32c95.js)
+[FRIENDSCRAFT SMP - INFO SERVER](https://gist.github.com/PPekKunGz/7f509c0e22fc78a677658d868dc32c95.js)
+</div>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
