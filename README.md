@@ -3,7 +3,7 @@
 
 <div align="center">
 	<p align="center">🖥️ FRIENDSCRAFT SMP SEASON 2 - BY PPEKKUNGZ 🗂️</p>
-[INFO SERVER](https://gist.github.com/PPekKunGz/da5bd87c7de960fe194024b866a1c4e8)
+[INFO SERVER]([https://gist.github.com/PPekKunGz/da5bd87c7de960fe194024b866a1c4e8](https://github.com/PPekKunGz/FriendsCraft-SMP-SS2))
 </div>
 <br>
 
