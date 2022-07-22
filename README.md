@@ -4,7 +4,7 @@
 <div align="center">
 	<p align="center">🖥️ FRIENDSCRAFT SMP SEASON 2 - Powered by PPEKKUNGZ 🗂️</p>
 FriendsCraft SMP Server INFO // https://vikoprt.link/FSCSMP-Info <br>
-FriendsCraft Horror SMP!! //https://github.com/PPekKunGz/FriendsCraft-Horror-SMP
+FriendsCraft Horror SMP!! //https://github.com/PPekKunGz/FriendsCraft-Horror-SMP <br>
 FriendsCraft Pixelmon SMP!! //https://github.com/PPekKunGz/FriendsCraft-Pixelmon-SMP
 </div>
 <br>
