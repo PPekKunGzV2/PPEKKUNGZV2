@@ -2,7 +2,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=pppekkungz&style=flat-square&color=00E8FF)
 
 <div align="center">
-	<p align="center">🖥️ FRIENDSCRAFT SMP SEASON 2 - Powered by PPEKKUNGZ 🗂️</p>
+	<p align="center">🖥️ FRIENDSCRAFT Official Server - Powered by PPEKKUNGZ x SycerNetwork x VikOprt 🗂️</p>
 FriendsCraft SMP Server INFO // https://vikoprt.link/FSCSMP-Info <br>
 FriendsCraft Horror SMP!! // https://github.com/PPekKunGz/FriendsCraft-Horror-SMP <br>
 FriendsCraft Pixelmon SMP!! // https://github.com/PPekKunGz/FriendsCraft-Pixelmon-SMP
