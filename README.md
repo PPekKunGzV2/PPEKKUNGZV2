@@ -5,10 +5,10 @@
 <div align="center">
 	<p align="center">🖥️ FRIENDSCRAFT Official Server - Powered by PPEKKUNGZ x SycerNetwork x VikOprt 🗂️</p>
 FriendsCraftSMP Server INFO // https://vikoprt.link/FSCSMP-Info <br>
-FriendsCraftSMP Member!! // https://github.com/PPekKunGz/FriendsCraft-SMP-Member <br>
 FriendsCraft HorrorSMP!! // https://github.com/PPekKunGz/FriendsCraft-Horror-SMP <br>
-FriendsCraft HorrorSMPSS2!! // https://github.com/PPekKunGz/FriendsCraft-Horror-SMPSS2 <br>
-FriendsCraft Pixelmon SMP!! // https://github.com/PPekKunGz/FriendsCraft-Pixelmon-SMP
+FriendsCraftSMP Member!! // https://github.com/PPekKunGz/FriendsCraft-SMP-Member <br>
+FriendsCraft Pixelmon SMP!! // https://github.com/PPekKunGz/FriendsCraft-Pixelmon-SMP <br>
+FriendsCraft HorrorSMPSS2!! // https://github.com/PPekKunGz/FriendsCraft-Horror-SMPSS2 
 </div>
 <br>
 
