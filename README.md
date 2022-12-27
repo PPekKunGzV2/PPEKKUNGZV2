@@ -8,7 +8,8 @@ FriendsCraftSMP Server INFO // https://vikoprt.link/FSCSMP-Info <br>
 FriendsCraft HorrorSMP!! // https://github.com/PPekKunGz/FriendsCraft-Horror-SMP <br>
 FriendsCraftSMP Member!! // https://github.com/PPekKunGz/FriendsCraft-SMP-Member <br>
 FriendsCraft Pixelmon SMP!! // https://github.com/PPekKunGz/FriendsCraft-Pixelmon-SMP <br>
-FriendsCraft HorrorSMPSS2!! // https://github.com/PPekKunGz/FriendsCraft-Horror-SMPSS2 
+FriendsCraft HorrorSMPSS2!! // https://github.com/PPekKunGz/FriendsCraft-Horror-SMPSS2 <br>
+FriendsCraftSMP SEASON 3!! // https://github.com/PPekKunGz/FriendsCraft-SMP-SEASON3
 </div>
 <br>
 
