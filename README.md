@@ -16,7 +16,7 @@ FriendsCraftSMP SEASON 3!! // https://github.com/PPekKunGz/FriendsCraft-SMP-SEAS
 <h1 align="center">Hello, Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm PPekKunGz</h1>
 <h3 align="center">My free time is sitting, sleeping, eating.</h3>
 
-- 🔭 I’m currently working [**Freelance**](https://twitter.com/PPekKunGz1) - **Font-End Developer | ReactJS, NextJS, HTML&CSS**
+- 🔭 I’m currently working [**Freelance**](https://ppekkungz.online/) - **Font-End Developer | ReactJS, NextJS, HTML&CSS**
 - 🔭 I’m currently working on [**Ayariko Bot Project**](https://top.gg/bot/691256244194770944) - **TEAM DEVELOPMENT**
 
 
