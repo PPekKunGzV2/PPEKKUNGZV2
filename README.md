@@ -25,7 +25,8 @@ FriendsCraftSMP SEASON 3!! // https://github.com/PPekKunGz/FriendsCraft-SMP-SEAS
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PPekKunGz&theme=outrun&show_icons=true)
-
+&nbsp;
+[![Discord Presence](https://lanyard.cnrad.dev/api/450711285839953931)](https://discord.com/users/450711285839953931)
 <h3 align="left">Languages and Tools that I use, and gonna learn:</h3>
 
 <p align="left">
