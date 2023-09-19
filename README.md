@@ -3,14 +3,10 @@
 
 
 <div align="center">
-	<p align="center">🖥️ FRIENDSCRAFT Official Server - Powered by PPEKKUNGZ x SycerNetwork x VikOprt 🗂️</p>
-FriendsCraftSMP Server INFO // https://vikoprt.link/FSCSMP-Info <br>
-FriendsCraft HorrorSMP!! // https://github.com/PPekKunGz/FriendsCraft-Horror-SMP <br>
-FriendsCraftSMP Member!! // https://github.com/PPekKunGz/FriendsCraft-SMP-Member <br>
-FriendsCraft Pixelmon SMP!! // https://github.com/PPekKunGz/FriendsCraft-Pixelmon-SMP <br>
-FriendsCraft HorrorSMPSS2!! // https://github.com/PPekKunGz/FriendsCraft-Horror-SMPSS2 <br>
-FriendsCraftSMP SEASON 3!! // https://github.com/PPekKunGz/FriendsCraft-SMP-SEASON3
-</div>
+	<p align="center">🖥️ FRIENDSCRAFT Official Projects - Powered by PPEKKUNGZ x SycerNetwork x VikOprt 🗂️</p>
+<h3 align="center">KmMinigameUtils School <img src="https://wakatime.com/badge/user/18d6afc2-0418-4101-8b22-0a0d3177adb3/project/84fb03b6-fe3e-48a3-8102-d7db29fc1b24.svg?style=flat-square"></h3>
+<h3 align="center">KmMinigameUtils <img src="https://wakatime.com/badge/user/18d6afc2-0418-4101-8b22-0a0d3177adb3/project/8ac23e9c-e7d3-45e0-866d-1af1f3264123.svg?style=flat-square"></h3>
+<h3 align="center">KmTab-WaterFall <img src="https://wakatime.com/badge/user/18d6afc2-0418-4101-8b22-0a0d3177adb3/project/cf47bbda-647e-4a4d-87d0-aa30401ede0f.svg?style=flat-square"></h3>
 <br>
 
 <h1 align="center">Hello, Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm PPekKunGz</h1>
